@@ -1,0 +1,88 @@
+
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Financial.co</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background-color: #f0f2f5;
+    color: #333;
+  }
+  header {
+    text-align: center;
+    padding-bottom: 20px;
+  }
+  h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    color: #2c3e50;
+  }
+  nav {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #2980b9;
+    font-weight: bold;
+  }
+  section {
+    max-width: 800px;
+    margin: 0 auto 40px auto;
+  }
+  h2 {
+    color: #34495e;
+  }
+  p {
+    line-height: 1.6;
+  }
+  footer {
+    text-align: center;
+    font-size: 0.9em;
+    color: #777;
+    padding-top: 20px;
+    border-top: 1px solid #ddd;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Financial.co</h1>
+  <p>Advancing Knowledge in Financial Markets</p>
+</header>
+
+<nav>
+  <a href="#about">About</a>
+  <a href="#research">Research</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+  <h2>About Us</h2>
+  <p>
+    Welcome to our research site. We are dedicated to exploring the latest trends and data in financial markets. Our goal is to provide valuable insights and analysis to help understand economic patterns and investment strategies.
+  </p>
+</section>
+
+<section id="research">
+  <h2>Our Research</h2>
+  <p>
+    Our team conducts quantitative and qualitative analysis on various financial instruments, market behaviors, and economic indicators. Stay tuned for our latest publications and findings.
+  </p>
+</section>
+
+<section id="contact">
+  <h2>Contact Us</h2>
+  <p>If you'd like to learn more or collaborate, please reach out:</p>
+  <p>Email: research@financial.co</p>
+</section>
+
+<footer>
+  &copy; 2025 Your Name or Organization. All rights reserved.
+</footer>
+</body>
+</html>
